@@ -1,6 +1,4 @@
 .env
-Dockerfile*
-docker-compose*
 .vscode
 go-rest-api # Dont push the local binary
 .DS_Store
